@@ -44,7 +44,7 @@ price, location, or something else entirely?
 ---
 
 ## Project Structure
-├── zomato_eda.ipynb       # Main analysis notebook
+├── eda.ipynb       # Main analysis notebook
 ├── sql_queries.sql        # SQL aggregation queries
 ├── data/
 │   └── zomato.csv         # Raw dataset
