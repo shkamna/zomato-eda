@@ -41,18 +41,6 @@ price, location, or something else entirely?
 <img width="1314" height="723" alt="Screenshot 2026-05-05 173052" src="https://github.com/user-attachments/assets/15f746f0-9c02-426a-adb0-284017eeaad6" />
 
 
----
-
-## Project Structure
-├── eda.ipynb       # Main analysis notebook
-├── sql_queries.sql        # SQL aggregation queries
-├── data/
-│   └── zomato.csv         # Raw dataset
-└── images/
-└── dashboard.png      # Power BI dashboard
----
----
-
 ## How to Run
 
 ```bash
